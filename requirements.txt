@@ -1,0 +1,15 @@
+numpy==1.24.2
+packaging==23.0
+pandas==1.5.3
+Pillow==9.4.0
+ply==3.11
+psycopg2-binary==2.9.5
+PyQt5==5.15.8
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.1
+PyQt5-stubs==5.15.6.0
+python-dateutil==2.8.2
+pytz==2022.7.1
+sip==6.7.7
+six==1.16.0
+toml==0.10.2
